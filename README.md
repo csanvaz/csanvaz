@@ -5,7 +5,7 @@ When it comes to data analysis, I love the insights that can be gathered to not 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=csanvaz&label=Profile%20views&color=0e75b6&style=flat" alt="csanvaz" /> </p>
 
-- 🔭 I’m currently working on **UIC Class Catalog and Planner**
+- 🔭 I’m currently working on **UIC Class Catalog and Planner** with a team of UIC students. The project will involve us using Figma to design the user interface and using languages like react, html, css, and javascript to create a web application that we will deploy in December 2024.
 
 - 📫 How to reach me **csanvaz77@gmail.com**
 

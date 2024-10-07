@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Cynthia!</h1>
-<h3 align="center">I am a computer science student with experience in UX design, front-end development, machine learning, and data management.</h3>
+<h3 align="center">I have had three internship experiences that have honed my skillsets in UX Design, data visualization, data analysis, and data preparation. I have attended two hackathons and won second place for one. 
+
+When it comes to data analysis, I love the insights that can be gathered to not only understand patterns but make informed decisions. From th UX design process I love collaborating with other team members to innovate, work towards undersanding user needs, and engage in iterations to polish a product to deliver. My interest in creating software comes from the fun I have with coding and the ability to create a product that can help a user get one step closer to their goals. </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=csanvaz&label=Profile%20views&color=0e75b6&style=flat" alt="csanvaz" /> </p>
 

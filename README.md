@@ -11,7 +11,7 @@ When it comes to data analysis, I love the insights that can be gathered to not 
 
 - ⚡ Fun fact **I hiked Mount Hallasan, collect plants, and love being active.**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 

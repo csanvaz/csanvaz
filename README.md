@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Cynthia!</h1>
-<h3 align="center">I have had three internship experiences that have honed my skillsets in UX Design, data visualization, data analysis, and data preparation. I have attended two hackathons and won second place for one. 
+<h3 align="center">I have had three internship experiences that have honed my skillsets in UX Design, product management, data visualization, data analysis, data preparation, and software engineering. I have attended two hackathons and won second place for one. 
 
-When it comes to data analysis, I love the insights that can be gathered to not only understand patterns but make informed decisions. From th UX design process I love collaborating with other team members to innovate, work towards undersanding user needs, and engage in iterations to polish a product to deliver. My interest in creating software comes from the fun I have with coding and the ability to create a product that can help a user get one step closer to their goals. </h3>
+My current passions involve AI and exploring the possible use cases. I am currently in a Mindstudio AI Agent bootcamp to further understand how to implement AI agents into a business or how it can help on an individual level. I am also studying to obtain the Salesforce Agentforce Specialist certification. My studying has given me further insight into what should be considered when implementing AI agents into a business, prompt engineering, and possible use cases of AI agents.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=csanvaz&label=Profile%20views&color=0e75b6&style=flat" alt="csanvaz" /> </p>
 
 
 - 📫 How to reach me **csanvaz77@gmail.com**
 
-- ⚡ Fun fact **I hiked Mount Hallasan, collect plants, and love being active.**
+- ⚡ Fun fact **I hiked Mount Hallasan, collect plants, and love being active/adventuring.**
 
 
 <p align="left">
